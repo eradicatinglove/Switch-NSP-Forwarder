@@ -2,6 +2,8 @@ Switch NSP Forwarder Builder — by The Other Side
 
 A Windows GUI application to create NSP forwarders for:
 
+Nintendo Switch with firmware 21.1.0 support
+
 Standard Homebrew NROs
 
 RetroArch ROM Forwarders
