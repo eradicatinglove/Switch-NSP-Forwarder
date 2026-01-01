@@ -4,7 +4,7 @@ A Windows GUI application to create NSP forwarders for:
 
 Standard Homebrew NROs
 
-RetroArch ROM Forwarders (like n8.io)
+RetroArch ROM Forwarders
 
 This tool builds fully functional NSPs that appear on the Nintendo Switch HOME menu and launch directly into:
 
@@ -29,7 +29,7 @@ Your project folder must contain:
 switch_forwarder_gui.exe
 /tools
     hacbrewpack.exe
-    prod.keys
+    prod.keys <---- (you have to add this)
     /template_forwarder
 /output
 /work
