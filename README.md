@@ -1,3 +1,11 @@
+Dark Theme
+![Capture](https://github.com/user-attachments/assets/8fb23164-9bcf-4afb-bf4b-c93b18d7577f)
+
+Light Theme 
+![Capture](https://github.com/user-attachments/assets/acbc51fc-b224-4aa6-bdca-e489f16080b4)
+
+
+
 # 🎮 Switch NSP Forwarder Builder v1.0.0
 ### *(by **The Other Side**)*
 A simple Windows tool that lets you create custom **NSP forwarders** for:
