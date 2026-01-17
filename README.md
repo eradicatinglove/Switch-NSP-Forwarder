@@ -1,4 +1,4 @@
-# 🎮 Switch NSP Forwarder Builder v1.0.0
+# 🎮 TheOtherSide NSP Forwarder Builder v1.0.0
 ### *(by **The Other Side**)*
 A simple Windows tool that lets you create custom **NSP forwarders** for:
 
