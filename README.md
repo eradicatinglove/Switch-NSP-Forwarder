@@ -21,10 +21,7 @@ Sharing, redistributing, or downloading keys is **NOT supported** and may be ill
 ## Requirements
 
 - Windows 10 / 11
-- Python **3.10+** (only if running the `.py` version)
-- Required Python packages:
-  ```bash
-  pip install pillow pyside6
+
   ```
 
 ---
